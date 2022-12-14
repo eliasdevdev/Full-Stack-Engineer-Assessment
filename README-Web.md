@@ -1,5 +1,7 @@
 # Full-Stack-Engineer-Assessment
 
+The following file is included in this test: README-Api.md
+
 Create a web-app using React. Use Redux if desired.
 
 About the users:
